@@ -2,4 +2,4 @@
 
 Classic OG cricket game written in Typescript
 
-https://cricket-game-typescript.netlify.app/
+https://cricket-game-master-tiyasha.netlify.app/
